@@ -2,10 +2,10 @@
 Converting stock kik ui to a dark themed variant
 
 What this guide/repository covers
--Modifying Colors.xml (partially to convert to dark theme, partially to change other colors)
--Modifying res/layout and res/layout-v17 (finishing touches on the dark theme)
--Adding the A/B testing menu (optional, enables a hidden menu within kik with many customization options)
--Changing the package name (optional as well, packagechanger tool from the hyper6 repository will be used)
+Modifying Colors.xml (partially to convert to dark theme, partially to change other colors)
+Modifying res/layout and res/layout-v17 (finishing touches on the dark theme)
+Adding the A/B testing menu (optional, enables a hidden menu within kik with many customization options)
+Changing the package name (optional as well, packagechanger tool from the hyper6 repository will be used)
 
 # The Easy Way
 1. Get a copy of stock kik (must match version code to folder name in repository) (we are starting with kik 18.4 and moving
