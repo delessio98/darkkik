@@ -32,7 +32,7 @@
     <uses-feature android:name="android.hardware.bluetooth" android:required="false"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-    <application android:allowBackup="false" android:debuggable="true" android:hardwareAccelerated="true" android:icon="@mipmap/icon" android:label="Hyper6" android:largeHeap="true" android:name="kik.android.chat.KikApplication" android:resizeableActivity="true" android:supportsRtl="false" android:theme="@style/AppTheme">
+    <application android:allowBackup="false" android:debuggable="true" android:hardwareAccelerated="true" android:icon="@mipmap/icon" android:label="Blue" android:largeHeap="true" android:name="kik.android.chat.KikApplication" android:resizeableActivity="true" android:supportsRtl="false" android:theme="@style/AppTheme">
         <meta-data android:name="com.google.android.gms.car.application" android:resource="@xml/automotive_app_desc"/>
         <meta-data android:name="kik.android.instabug_app_token" android:value=""/>
         <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_fpxk8WuTwagFbmshrrtx3lijCvnqVRgC"/>
