@@ -1,9 +1,9 @@
 # Kik 14.8.0.14887
 
-# darkKik Progress : Testing (89% complete)
--Converted Colors.xml
--Converted Layout and Layout-v17 folders
--Modified AndroidManifest.xml
+# darkKik Progress : Testing (29% complete)
+-Converting Colors.xml
+-Converting Layout and Layout-v17 folders
+-Modifying AndroidManifest.xml
 
 # To Do
 -Bug Testing
