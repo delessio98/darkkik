@@ -5,6 +5,19 @@ A dark themed replacement for stock kik messenger
 Current Version : 14.9 (Kik's November 2nd Update)
 https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
+# Available Themes
+1. Red 
+2. Teal 
+3. Lemon 
+
+# Themes that are being worked on / released soon
+1. Pink
+2. Orange
+3. Blue
+4. Indigo
+5. Pikek
+6. Brown
+
 # Features
 1. Complete Black UI with a two-tone Teal accent color
 2. Unlocked A/B Testing menu (unlocks a plethora of customization options)
