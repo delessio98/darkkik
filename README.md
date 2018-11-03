@@ -1,27 +1,19 @@
 # darkKik
-Converting stock kik ui to a dark themed variant
+A dark themed replacement for stock kik messenger
 
-What this guide/repository covers
-1. Modifying Colors.xml (partially to convert to dark theme, partially to change other colors)
-2. Modifying res/layout and res/layout-v17 (finishing touches on the dark theme)
-3. Adding the A/B testing menu (optional, enables a hidden menu within kik with many customization options)
-4. Changing the package name (optional as well, packagechanger tool from the hyper6 repository will be used)
+# Download
+Current Version : 14.9 (Kik's November 2nd Update)
 
-# The Easy Way
-1. Get a copy of stock kik (must match version code to folder name in repository) (we are starting with kik 18.4 and moving
-upwards as kik releases updates)
-2. Decompile with apktool (apktool d kik.apk)
-3. Delete res/layout and replace with the layout folder from this repository
-4. Delete res/layout-v17 and replace with the layout-v17 folder from this repository
-5. Delete res/values/colors.xml and replace with the colors.xml file from this repository
-6. Add android:debuggable="true" to AndroidManifest.xml under the <application tag)
- 6a. If you have problems with this,download the AndroidManifest from this repository, delete the old manifest file
- and add the one you just downloaded
-7. Download the packagechanger scripts from my hyper6 repository (please read then intructions, the tool is still a beta)
-8. Change the package name using my tool
-9. Recompile with apktool (apktool b kik -o yourmodnamegoeshere.apk)
-10. Sign the apk (apk-signer is a great tool and works on Windows AND Android ANDDD Linux ;)
-11. Install the apk and enjoy your new retheme
-
-# The Hard Way
-Coming Soon...
+# Features
+1. Complete Black UI with a two-tone Teal accent color
+2. Unlocked A/B Testing menu (unlocks a plethora of customization options)
+3. Patched a bunch of unicode crash codes (causes an overflow in the run time by trying to parse an invalid unicode string
+as a website and crashes the main application thread)
+  3a. There are hundreds of unicode crash codes so most likely somebody will be able to crash you, i just patched the newer / 
+  popular ones
+  
+ # What's Next
+ Features that I *plan* on having ready for the next kik update
+ 1. Read Reciepts, No Pull, and Disable Typing
+ 2. Integrated firewall that blocks unsigned/malformed xmpp from unoffical IP addresses or locations (wink wink, a small group 
+ within the kik modding community has begun to use xmpp to lock users out of there accounts permanently. There is currently no fix after your account has been bricked, this feature will do it's best to protect you from this, but you could also just not piss off those said people)
