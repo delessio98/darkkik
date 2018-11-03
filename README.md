@@ -18,6 +18,13 @@ as a website and crashes the main application thread)
  2. Integrated firewall that blocks unsigned/malformed xmpp from unoffical IP addresses or locations (wink wink, a small group 
  within the kik modding community has begun to use xmpp to lock users out of there accounts permanently. There is currently no fix after your account has been bricked, this feature will do it's best to protect you from this, but you could also just not piss off those said people)
 
+# Joining the Project
+If you can do any of these things I'd be more than greateful to bring you onboard with darkKik
+
+1. You can theme pretty good, modify layouts and colors, custom drawables and backgrounds
+2. You are able to add mods to darkKik (and port them to future updates)
+3. You can add custom popups or a pastebin popop / update checker (i RLY need an update checker soon lmao)
+
 # Terms of use
 1. This is 100% open source, use any of this code or modify darkKiK in any way you would like, just clarify it's not an official release 
 2. If you plan on using this to make your own mod, i will not add it into offical darkKK realeases, as that is only for other
