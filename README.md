@@ -3,6 +3,7 @@ A dark themed replacement for stock kik messenger
 
 # Download
 Current Version : 14.9 (Kik's November 2nd Update)
+https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
 # Features
 1. Complete Black UI with a two-tone Teal accent color
