@@ -39,11 +39,4 @@ If you can do any of these things I'd be more than greateful to bring you onboar
 
 # Terms of use
 1. This is 100% open source, use any of this code or modify darkKiK in any way you would like, just clarify it's not an official release 
-2. If you plan on using this to make your own mod, i will not add it into offical darkKK realeases, as that is only for other
-darkKiK themes.
-3. If you've made a custom theme and would like it to be added to the themes folder (coming soon), follow these steps
- 3a. Extract colors.xml,layout(folder),and layout-v17(folder) and compress them into a single .zip file
- 3b. Upload your modified apk and the .zip file to mediafire and message me on kik (@kanxerous)
- 3c. I will review your theme (bug testing, unauthorized edits or malicious extensions to the apk, ads, viruses, etc) and get back to you within a couple hours
- 3d. If your theme is accepted you will be added to our themer list and be included in future credits of darkKik, aswell as putting yourself as co-dev for your specific .apk
-4. If you discover how to unlock paid themes, keep it to yourself. If kik gets wind of people unlocking paid themes and accessing the kin marketplace before it launches, they may remove it from A/B until the official release, or cancel it entirely. Please be responsible and those who do decide to leak it will be banned from any hyperkik and darkkik groups aswell as blacklisted from any of my projects. 
+2. Feel free to message me with suggestions bugs contributioons ideas etc, anything helps
