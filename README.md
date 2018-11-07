@@ -5,18 +5,16 @@ A dark themed replacement for stock kik messenger
 Current Version : 14.9 (Kik's November 2nd Update)
 https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
-# Available Themes
-1. Red 
-2. Teal 
-3. Lemon 
-
-# Themes that are being worked on / released soon
-1. Pink
-2. Orange
-3. Blue
-4. Indigo
-5. Pikek
-6. Brown
+# Next Planned Update : Friday (Currently on 14.9 Beta Build 3)
+1. Fixed LaForge button text in AB Testing Menu
+2. Fixed Crop Activity background
+3. Fixed Kik Browser bugs (url color, dividers, etc)
+4. Added a sexy background for the welcome screen, settings screen, and conversations screen
+5. Moved the fab to center of convo list (this is just for testing and will be removed from the final apk unless somebody actually wants it)
+6. Modified the app bar background to *almost seamlessly* blend with the conversation screen background
+7. Added an About and Changelog to darkKik settings
+8. Reworked Settings Menu's
+9. Added a developer team section (just placeholders for now until i get usernames and descriptions sorted out)
 
 # Features
 1. Complete Black UI with a two-tone Teal accent color
