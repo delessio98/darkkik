@@ -39,4 +39,4 @@ If you can do any of these things I'd be more than greateful to bring you onboar
 
 # Terms of use
 1. This is 100% open source, use any of this code or modify darkKiK in any way you would like, just clarify it's not an official release 
-2. Feel free to message me with suggestions bugs contributioons ideas etc, anything helps
+2. Feel free to message me with suggestions bugs contributions ideas etc, anything helps (my kik is kanxerous)
