@@ -1,0 +1,12 @@
+toying around with some FloatingActionButton edits on darkKik
+
+documentation for kik's fab can be found here
+https://github.com/Clans/FloatingActionButton
+
+a simple example can be found here
+https://github.com/Clans/FloatingActionButton/blob/master/sample/src/main/res/layout/menus_fragment.xml
+
+
+my goal here is to move the fab to the bottom center of the screen and have the labels to the right of the fab icons
+
+recompiling now wish me luck even though im the only one who reads these lol
