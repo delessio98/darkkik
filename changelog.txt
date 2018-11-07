@@ -1,0 +1,2 @@
+-Fixed Crop Activity Color
+-Fixed text color for LaForge button (settings -> account -> A/B tests -> top right button)
