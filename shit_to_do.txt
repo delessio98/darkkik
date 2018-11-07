@@ -1,0 +1,8 @@
+Reorganize settings screen (merge most settings to one preference screen)
+Add developer credit section
+Add about popup
+Add changelog popup
+Add update checker (idk if i should have it check automatically when the app updates or when they press a button? We'll see what happens lol)
+Add better icons (doing it now)
+No sense in obfuscation as its open source so im gonna make the apk break apkeditor. Any half intelligent dev will be using a pc (hopefully linux LOL) and apktool / dex2jar
+Change bubble text? Im lazy and its a smali edit so this wont come for a lil bit (feel free to help :) ) 
