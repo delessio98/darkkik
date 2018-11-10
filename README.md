@@ -2,10 +2,14 @@
 A dark themed replacement for stock kik messenger
 
 # Download
+
+Beta Version : 14.9 v2 (UI Updates, New Features, Bug Fixes)
+https://www.mediafire.com/download/0d3trg3tlpnq3nw
+
 Current Version : 14.9 (Kik's November 2nd Update)
 https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
-# Next Planned Update : Friday (Currently on 14.9 Beta Build 3)
+# Changelog (v14.9 v2)
 1. Fixed LaForge button text in AB Testing Menu
 2. Fixed Crop Activity background
 3. Fixed Kik Browser bugs (url color, dividers, etc)
@@ -15,6 +19,12 @@ https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 7. Added an About and Changelog to darkKik settings
 8. Reworked Settings Menu's
 9. Added a developer team section (just placeholders for now until i get usernames and descriptions sorted out)
+10. Request all permissions on startup (hit ' dont ask again ' to avoid it continuously popping up)
+11. Font Size Increased by 15% for better readability on custom background 
+12. Support for newer phablets / larger phones (ex. S8+, S9, Note 9, etc)
+13. Support for Multi Window / Split Screen (android 7.0 +, with exceptions for certain samsung and LG devices)
+14. Moved Developer Team Section to seperate menu (reduces setting clutter)
+
 
 # Features
 1. Complete Black UI with a two-tone Teal accent color
