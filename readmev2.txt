@@ -1,0 +1,8 @@
+Welcome to darkKik 14.9 version 2
+
+Things you should be aware of
+1. Most Unicode Crash Codes have been patched, if you begin lagging, long press the back button on your phone, then close darkKik fron the recents menu and reopen. You'll be back to the main screen with no errors
+2. All permissions are requested every time the app launches, meaning if you dont check "dont ask again", it will continue to ask every time you open the app
+3. There's a bug with the conversation list, when you have no chats or deleted all of them, the background turns black instead of remaining the custom set one. This is an easy fix and will be included in the next update
+4. This will be the last darkKik update on Kik 14.9, the project will resume development when kik releases their next update. We are rebuilding again, and this time including mods. Since mods are semi difficult to code, darkKik will be split off into two branches after the next update, darkKik and darkKik+ . darkKik+ will retain mods and will not be updated for future versions of kik, rather updated as new features roll out. The regular darkKik will update as Kik does, but mods will not be present in all versions
+5. The source code for the java mods cannot and will not be provided as a friend of mine is coding them, and wishes for them to be kept private. Feel free to poke around and reverse engineer, but you will not receive and support or assistance from me regarding any java mods present in darkKik
