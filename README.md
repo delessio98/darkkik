@@ -3,12 +3,17 @@ A dark themed replacement for stock kik messenger
 
 # Download
 
-Next Version : 14.10 (Rebuilding darkKik off Kik's newest update) [coming soon]
 
-Beta Version : 14.9 v2 (UI Updates, New Features, Bug Fixes)
+
+**New** 14.10 (Lots of updates, see changelog) [Kik's November 8th Update)
+
+https://www.mediafire.com/download/wb7y5apfmzlsvfz
+(apologies in advance for the large apk size, apktool had a compression error)
+
+14.9 v2 (UI Updates, New Features, Bug Fixes)
 https://www.mediafire.com/download/0d3trg3tlpnq3nw
 
-Current Version : 14.9 (Kik's November 2nd Update)
+14.9 (Kik's November 2nd Update)
 https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
 # Changelog (v14.9 v2)
