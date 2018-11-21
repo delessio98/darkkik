@@ -16,6 +16,10 @@ https://www.mediafire.com/download/0d3trg3tlpnq3nw
 14.9 (Kik's November 2nd Update)
 https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
+# Announcements
+
+darkKik 14.10 v2 is in the works ! I have a lot planned for this release and new settings !
+
 # Changelog (v14.9 v2)
 1. Fixed LaForge button text in AB Testing Menu
 2. Fixed Crop Activity background
