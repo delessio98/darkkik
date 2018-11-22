@@ -20,6 +20,8 @@ https://www.mediafire.com/folder/7l73x5eu9df3m/darkKiK
 
 darkKik 14.10 v2 is in the works ! I have a lot planned for this release and new settings !
 
+darkKik 14.11 will be released soon for those who want the theme on the newest kik update (14.11.1.17500) This release will not include mods
+
 # Changelog (v14.9 v2)
 1. Fixed LaForge button text in AB Testing Menu
 2. Fixed Crop Activity background
