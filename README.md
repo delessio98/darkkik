@@ -1,3 +1,6 @@
+# DISCONTINUED UNTIL I GET MORE FREE TIME SORRY <3
+
+
 # darkKik
 A dark themed replacement for stock kik messenger
 
